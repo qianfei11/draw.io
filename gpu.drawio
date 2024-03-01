@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T11:43:48.081Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="k-dUkwiZxW5SieS3UoAL" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T13:53:25.179Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KWoY9QtK-iXBytwvJNAI" version="23.0.1" type="github">
   <diagram name="第 1 页" id="76gSzwDmyLc00p9UoDqc">
     <mxGraphModel dx="954" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,29 +355,20 @@
             <mxPoint x="4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCmiSXd5iOeGh8uwcBPk-2" value="ML Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="727" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCmiSXd5iOeGh8uwcBPk-3" value="Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="677" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-5" value="EL1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="732" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-6" value="EL0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="682" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-9" value="Hypervisor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCmiSXd5iOeGh8uwcBPk-9" value="GPU Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="777" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-10" value="Secure Monitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCmiSXd5iOeGh8uwcBPk-10" value="GPU Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="827" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-11" value="EL2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="782" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCmiSXd5iOeGh8uwcBPk-12" value="EL3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1021" y="832" width="40" height="30" as="geometry" />
+        <mxCell id="CCmiSXd5iOeGh8uwcBPk-19" value="GPU Hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="877" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
