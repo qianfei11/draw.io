@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T11:22:10.723Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gM5DguEtYzdaheU1rov8" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T12:46:13.003Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5_wbu4T0_zDG84h6RHlL" version="24.0.7" type="github">
   <diagram name="第 1 页" id="76gSzwDmyLc00p9UoDqc">
     <mxGraphModel dx="1034" dy="448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,7 +380,7 @@
           <mxGeometry x="970" y="743" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TYFgSqYCY8ek9hUEsssS-5" value="GPU Driver" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1029.5" y="838" width="80" height="20" as="geometry" />
+          <mxGeometry x="1030" y="840" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TYFgSqYCY8ek9hUEsssS-6" value="EL1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="926.5" y="835" width="40" height="30" as="geometry" />
@@ -408,6 +408,24 @@
         </mxCell>
         <mxCell id="TYFgSqYCY8ek9hUEsssS-30" value="Application" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="981" y="748" width="177" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="729" width="260" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="957" width="561" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-33" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1050" width="201" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-34" value="FPGA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="1050" width="80" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-35" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="1050" width="80" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="TYFgSqYCY8ek9hUEsssS-36" value="NPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="1050" width="80" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
